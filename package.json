@@ -6,8 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "4702chahat Chahat Ahuja",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/4702chahat/Quiz-App"
+  },
+  "keywords": ["quiz", "app", "javascript", "quiz-app"],
   "dependencies": {
     "express": "^4.21.2"
   }
