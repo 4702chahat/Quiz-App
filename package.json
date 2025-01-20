@@ -1,12 +1,12 @@
 {
-  "name": "quiz-xpert",
+  "name": "4702chahat/quiz-xpert",
   "version": "1.0.0",
   "description": "A simple quiz app built using JavaScript",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "4702chahat Chahat Ahuja",
+  "author": "4702chahat  Chahat Ahuja",
   "license": "ISC",
   "dependencies": {
     "express": "^4.21.2"
